@@ -233,13 +233,41 @@ This application is built using modern mobile development technologies:
 
 
 
-### 🚀 Thanks for Visiting!
+---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO-NAME)
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPO-NAME?style=flat-square)
+## 📌 Support & Appreciation
 
-💡 *"Building something useful is better than building something perfect."*
+<p align="center">
 
-⭐ Jangan lupa kasih star kalau project ini membantu!
+<a href="https://github.com/USERNAME/REPO-NAME/stargazers">
+  <img src="https://img.shields.io/github/stars/USERNAME/REPO-NAME?style=for-the-badge" alt="Stars"/>
+</a>
 
-</div>
+<a href="https://github.com/USERNAME/REPO-NAME/network/members">
+  <img src="https://img.shields.io/github/forks/USERNAME/REPO-NAME?style=for-the-badge" alt="Forks"/>
+</a>
+
+<a href="https://github.com/USERNAME/REPO-NAME/issues">
+  <img src="https://img.shields.io/github/issues/USERNAME/REPO-NAME?style=for-the-badge" alt="Issues"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPO-NAME" alt="Visitors"/>
+  <img src="https://img.shields.io/github/last-commit/USERNAME/REPO-NAME?style=flat-square" alt="Last Commit"/>
+</p>
+
+---
+
+## 💬 Final Note
+
+<p align="center">
+  <i>"Building something useful is better than building something perfect."</i>
+</p>
+
+<p align="center">
+⭐ Jika project ini bermanfaat, silakan berikan <b>star</b> sebagai bentuk dukungan!
+</p>
+
+---
