@@ -206,16 +206,32 @@ Metode yang tersedia:
 ## 📱 Preview Aplikasi
 
 ### 🧩 Storyboard
-<p align="center">
-  <img src="./assets/storyboard.png" width="900"/>
-</p>
+<img src="./assets/storyboard.png" width="900"/>
 
 ### 🔄 Alur Sistem
-<p align="center">
-  <img src="./assets/alur.png" width="700"/>
-</p>
+<img src="./assets/alur.png" width="700"/>
 
-<div align="center">
+
+## 🛠️ Tech Stack
+
+This application is built using modern mobile development technologies:
+
+### 📱 Mobile Development
+- **Android Studio** — Primary development environment  
+- **Java / Kotlin** — Core programming languages  
+- **XML Layout** — UI design and interface structuring  
+
+### ☁️ Backend & Services
+- **Firebase Authentication** — User authentication & security  
+- **Firebase Realtime Database / Firestore** — Data storage & management  
+- **REST API** — External data integration  
+
+### 🧩 Additional Tools
+- **Git & GitHub** — Version control and collaboration  
+
+
+
+
 
 ### 🚀 Thanks for Visiting!
 
