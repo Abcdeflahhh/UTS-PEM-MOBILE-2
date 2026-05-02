@@ -90,9 +90,130 @@ Secure login with:
 ---
 
 ## 📱 Storyboard Aplikasi
-(sudah benar, biarkan seperti punyamu — ini sudah rata kiri otomatis)
+
+### 🔐 1. Autentikasi (Login & Keamanan)
+Pengguna dapat mengakses aplikasi melalui:
+- Login menggunakan email & password
+- Integrasi Google Sign-In
+- Fitur lupa password (Forgot Password)
+
+➡️ Setelah login berhasil, pengguna diarahkan ke **Halaman Home**
 
 ---
+
+### 🏠 2. Home (Beranda)
+Halaman utama sebagai pusat navigasi:
+- Banner promosi
+- Kategori produk
+- Akses cepat:
+  - ❤️ Favorit
+  - 🛒 Keranjang
+  - 👤 Profil
+
+➡️ Pilih kategori → **Halaman Kategori Produk**  
+➡️ Pilih produk → **Detail Produk**
+
+---
+
+### 📂 3. Kategori Produk
+Produk dikelompokkan menjadi:
+- Pakaian
+- Sepatu
+- Aksesoris
+- Smartphone
+
+➡️ Menampilkan daftar produk sesuai kategori  
+➡️ Pilih produk → **Detail Produk**
+
+---
+
+### 📄 4. Detail Produk
+Menampilkan informasi lengkap:
+- Gambar produk
+- Deskripsi
+- Harga
+
+Fitur:
+- Tambah ke keranjang 🛒
+- Tambah ke favorit ❤️
+
+---
+
+### ❤️ 5. Favorit (Wishlist)
+- Menampilkan produk yang disukai pengguna
+
+➡️ Pilih produk → **Detail Produk**
+
+---
+
+### 🛒 6. Keranjang Belanja
+- Daftar produk yang dipilih
+- Total harga
+
+➡️ Lanjut ke **Checkout**
+
+---
+
+### 📍 7. Lokasi Pengiriman
+- Input alamat pengiriman
+
+➡️ Lanjut ke **Konfirmasi Pesanan**
+
+---
+
+### ✅ 8. Konfirmasi Pesanan
+- Ringkasan pesanan
+- Total pembayaran
+
+➡️ Pilih metode pembayaran
+
+---
+
+### 💳 9. Pembayaran
+Metode yang tersedia:
+- Transfer Bank
+- QRIS
+
+➡️ Proses pembayaran
+
+---
+
+### 🎉 10. Transaksi Berhasil
+- Notifikasi transaksi sukses
+
+➡️ Kembali ke **Home** atau ke **Riwayat Pesanan**
+
+---
+
+### 📦 11. Riwayat Pesanan
+- Daftar pesanan sebelumnya
+
+➡️ Pilih pesanan → **Detail Pesanan**
+
+---
+
+### 👤 12. Profil Pengguna
+- Mengelola dan memperbarui data akun
+
+---
+
+### 🆘 13. Pusat Bantuan
+- FAQ (Frequently Asked Questions)
+- Dukungan pengguna
+
+---
+
+## 📱 Preview Aplikasi
+
+### 🧩 Storyboard
+<p align="center">
+  <img src="./assets/storyboard.png" width="900"/>
+</p>
+
+### 🔄 Alur Sistem
+<p align="center">
+  <img src="./assets/alur.png" width="700"/>
+</p>
 
 <div align="center">
 
