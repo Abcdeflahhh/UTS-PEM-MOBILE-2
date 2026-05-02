@@ -227,11 +227,11 @@ This application is built using modern mobile development technologies:
 - **REST API** — External data integration  
 
 ### 🧩 Additional Tools
-- **Git & GitHub** — Version control and collaboration  
+- **Git & GitHub** — Version control and collaboration
 
-
-
-
+### Link Figma UI/UX & ClickUp
+- https://app.clickup.com/90181768468/v/s/90187596027
+- https://www.figma.com/design/4WMRTjM8a9EP9buVzUNbQu/PIE-SHOP-AFLAH?node-id=0-1&t=cpqx8sAajyaVE2zq-1
 
 ---
 
